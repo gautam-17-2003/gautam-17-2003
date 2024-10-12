@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gautam-17-2003
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning Generative Ai
-- 📫 How to reach me ...
+- 📫 How to reach me @pubrejagautam101@gmail.com
 - 😄 Pronouns: He/Him
 - Personal Portfolio : https://gautam-17-2003.github.io/my_portfolio/
 
